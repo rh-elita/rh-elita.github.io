@@ -1,0 +1,1 @@
+function e(e=new Date){return`${e.getFullYear()}-${String(e.getMonth()+1).padStart(2,`0`)}-${String(e.getDate()).padStart(2,`0`)}`}function t(e){let[t,n,r]=e.split(`-`).map(Number);return new Date(t,n-1,r)}function n(n,r){let i=t(n);return i.setDate(i.getDate()+r),e(i)}export{t as n,e as r,n as t};
