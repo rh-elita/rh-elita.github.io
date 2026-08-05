@@ -1,0 +1,1 @@
+import{a as e,i as t,m as n,s as r}from"./index-CkBG4E3G.js";function i(){return n(()=>t.get(),[])}function a(){let t=i();return t?r(t.activeMealSlots):e}export{i as n,a as t};
