@@ -1,1 +1,0 @@
-var e={breakfast:`Café da manhã`,morningSnack:`Lanche da manhã`,lunch:`Almoço`,afternoonSnack:`Lanche da tarde`,dinner:`Jantar`,supper:`Ceia`};export{e as t};
